@@ -24,7 +24,7 @@ A modern **Sentiment Analyzer Web Application** built with **Next.js**, **TypeSc
 
 ## 📁 Project Structure
 
-```text
+
 sentiment-analyzer-app/
 │
 ├── app/                  # Next.js app directory
@@ -99,5 +99,5 @@ sentiment-analyzer-app/
 
 ## 👨‍💻 Author
 
-*SELVARANI B
+SELVARANI B
 
