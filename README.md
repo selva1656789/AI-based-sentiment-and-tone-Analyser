@@ -1,6 +1,6 @@
 ## Sentiment Analyzer App
 
-A modern **Sentiment Analyzer Web Application** built with **Next.js**, **TypeScript**, and **shadcn/ui** components. This project allows users to input text and analyze its sentiment (positive, negative, or neutral) with a clean, responsive UI.
+A modern **Sentiment Analyzer Web Application** built with **Next.js**, **TypeScript**, and **ui** components. This project allows users to input text and analyze its sentiment (positive, negative, or neutral) with a clean, responsive UI.
 
 
 ## 🚀 Features
